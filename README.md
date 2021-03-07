@@ -59,6 +59,8 @@ Github Actions添加在Setting→Secrets→New secrets，腾讯云函数SCF设�
 
 ### 自动同步仓库设置<br>
 基础使用：<br>
+
+
 > 上游变动后pull插件会自动发起pr，在默认的配置文件中如果有冲突需要自行**手动**确认。<br>
 
 安装[pull插件](https://github.com/apps/pull)，然后设置生效的仓库并确认此项目已在pull插件的作用下<br>
